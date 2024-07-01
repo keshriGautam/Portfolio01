@@ -9,13 +9,13 @@ import CustomLogo from "./CustomLogo";
 import {
   Webhook,
   Box,
-  Figma,
+  // Figma,
   Instagram,
   Twitter,
   Github,
   Linkedin,
   Dribbble,
-  Spline,
+  // Spline,
 } from "lucide-react";
 
 const Homepage1 = () => {

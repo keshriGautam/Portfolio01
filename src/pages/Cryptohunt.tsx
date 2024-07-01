@@ -18,11 +18,11 @@ const Cryptohunt = () => {
           <h4 className="lg:text-xl sm:text-sm  text-zinc-400">FINTECH</h4>
           {/* heading */}
           <div className="flex justify-center items-center align-middle">
-            <img src={star} className="lg:w-20 md:w-12  sm:w-8" alt="" />
+            {/* <img src={star} className="lg:w-20 md:w-12  sm:w-8" alt="" /> */}
             <h2 className="lg:text-6xl md:text-3xl sm:text-3xl font-semibold flex justify-center items-center text-center px-3">
               Crypto-Hunt
             </h2>
-            <img src={star} className="lg:w-20 md:w-12 sm:w-8" alt="" />
+            {/* <img src={star} className="lg:w-20 md:w-12 sm:w-8" alt="" /> */}
           </div>
         </div>
 
@@ -39,7 +39,7 @@ const Cryptohunt = () => {
         {/* heroimg */}
         <img
           data-aos="fade-in"
-          src={cryptohunt}
+          // src={cryptohunt}
           className="w-full lg:h-svh"
           alt=""
         />
@@ -55,7 +55,7 @@ const Cryptohunt = () => {
             className="border rounded-2xl lg:text-justify md:text-justify"
           >
             <img
-              src={staricon}
+              // src={staricon}
               className="w-6 h-12 flex align-middle ml-5 "
               alt=""
             />
@@ -102,7 +102,7 @@ const Cryptohunt = () => {
             className="lg:col-span-4 flex justify-center items-center"
           >
             <img
-              src={crypto1}
+              // src={crypto1}
               className="lg:rounded-3xl md:rounded-2xl sm:rounded-md lg:border-4 md:border-2 sm:border-2"
               alt=""
             />
@@ -111,7 +111,7 @@ const Cryptohunt = () => {
           data-aos="fade-in"  
           className="lg:col-span-2 md:col-span-1 sm:col-span-1">
             <img
-              src={crypto3}
+              // src={crypto3}
               className=" lg:border-4 md:border-2 sm:border-2 lg:rounded-3xl md:rounded-2xl sm:rounded-md"
               alt=""
             />
@@ -120,7 +120,7 @@ const Cryptohunt = () => {
           data-aos="fade-in"  
           className="lg:col-span-2 md:col-span-1 sm:col-span-1">
             <img
-              src={crypto2}
+              // src={crypto2}
               className="lg:rounded-3xl md:rounded-2xl sm:rounded-md justify-center items-center w-full lg:h-full md:object-contain sm:object-contain lg:border-4 md:border-2 sm:border-2"
               alt=""
             />
@@ -138,7 +138,7 @@ const Cryptohunt = () => {
             className="flex lg:flex-col lg:gap-0 md:gap-10 sm:gap-0 border rounded-2xl md:text-lg sm:text-sm lg:w-1/3 sm:2/3"
           >
             <img
-              src={staricon}
+              // src={staricon}
               className="w-6 h-12 lg:ml-5 md:ml-4 sm:ml-0"
               alt=""
             />

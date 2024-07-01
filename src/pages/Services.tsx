@@ -1,6 +1,6 @@
 
 import projectstar from "../assets/starsvg.svg";
-import { Box, Github, LayoutDashboard, Linkedin, Twitter } from "lucide-react";
+import { Box, Github, Linkedin, Twitter } from "lucide-react";
 import CustomLogo from "./CustomLogo";
 import signature from "../assets/signature (2).png";
 import icon from "../assets/icon2.png";
